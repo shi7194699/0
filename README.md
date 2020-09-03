@@ -6,5 +6,6 @@ Converts from ZCL 12 word seed phrase to ETH public / private keys
 npm install
 
 ## Usage
+node index.js
 
 ![Example](./usage.svg)
